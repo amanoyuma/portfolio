@@ -5,7 +5,7 @@ YamaMatch
 Next.js / React / TypeScript / Tailwind CSS / Supabaseを用いた、登山山決め診断アプリです。
 
 ## サイトイメージ
-![アプリ画面]
+![アプリ画面](https://github.com/amanoyuma/portfolio/blob/41093b85196e94805a492514a57428092ef72a27/docs/%E3%83%A1%E3%82%A4%E3%83%B3%E7%94%BB%E9%9D%A2.png?raw=true)
 
 
 ## サイトURL
