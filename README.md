@@ -1,5 +1,4 @@
-# 天野友満のポートフォリオ
-YamaMatch
+# YamaMatch
 
 ## アプリ概要
 Next.js / React / TypeScript / Tailwind CSS / Supabaseを用いた、登山山決め診断アプリです。
